@@ -1,4 +1,4 @@
-# HR_Analytics-Dashbord
+# HR_Analytics-Dashboard
 A compact Power BI dashboard to visualize and analyze key HR metrics like employee demographics, attrition, performance, and salary trends. It helps HR teams make data-driven decisions for better workforce planning.
 
 ## 🔍 Key Features
