@@ -15,4 +15,5 @@ A compact Power BI dashboard to visualize and analyze key HR metrics like employ
 - Power Query for data cleaning
 
 ## 📸 Sample Dashboard
+![dashbord](https://github.com/user-attachments/assets/a1b336c2-d175-4803-95e5-7841a6edd6fa)
 
